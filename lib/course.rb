@@ -9,6 +9,6 @@ class Course
 
   def reset_all
 
-  
+  end
 
 end
