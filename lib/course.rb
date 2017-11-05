@@ -7,4 +7,8 @@ class Course
     @description = description
   end
 
+  def reset_all
+
+  
+
 end
